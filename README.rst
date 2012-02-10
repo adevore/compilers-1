@@ -11,18 +11,18 @@ Contributing
 ------------
 
 * Create a fork in GitHub and make your change to that.
-* After finishing, 
+* After finishing, send me a pull request.
 
 Structure
 ---------
 
-hw*n*/
-  For homework *n*
+hw<n>/
+  For homework <n>
 
-hw*n*/test
+hw<n>/test
   Test files
 
-hw*n*/test/Tests.rst
+hw<n>/test/Tests.rst
   Add an explanation for your test.
 
 personal/<name>
